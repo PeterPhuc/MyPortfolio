@@ -9,7 +9,11 @@ toc_icon: "bookmark"
 *Updated: 03/03/2024*
 
 ### Projects
-### [Weather Forecast](https://github.com/PeterPhuc/Weather-web.git) 
+### Projects
+### Projects
+### Projects
+
+[Weather Forecast](https://github.com/PeterPhuc/Weather-web.git) 
 
 |**Description project**|  Weather Forecast is a website based on real-time data taken from the third-party API Openweathermap. Users can search by city name, and display descriptions of current weather information including temperature, humidity, and wind direction. |
 |---------------------|----------------|
@@ -21,7 +25,7 @@ toc_icon: "bookmark"
 | **Domain name**              |        Update later        |
 
 
-### [Phimmoi](https://github.com/maivudhsp/DKTS_SDH) 
+[Phimmoi](https://github.com/PeterPhuc/phimmoi-web) 
 
 |**Description project**|  Developed a full-stack web application for watch movies online in high quality |
 |---------------------|----------------|
@@ -33,7 +37,7 @@ toc_icon: "bookmark"
 | **Domain name**              |        Update later         |
 
 
-### [Book Store](https://github.com/maivudhsp/TNVHDG)  
+[Book Store](https://github.com/PeterPhuc/Book-Web2-PTTKHTTT/)  
 
 |**Description project**|  Developed a full-stack web application for manage stores and sell books  |
 |---------------------|----------------|
