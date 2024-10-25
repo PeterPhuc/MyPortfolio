@@ -1,8 +1,4 @@
 {
   "framework": "jekyll",
-  "buildCommand": "bundle exec jekyll build",
-  "environment": {
-    "LANG": "en_US.UTF-8",
-    "LC_ALL": "en_US.UTF-8"
-  }
+  "buildCommand": "bundle exec jekyll build"
 }
