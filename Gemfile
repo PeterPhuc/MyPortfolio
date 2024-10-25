@@ -1,11 +1,14 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# Đảm bảo môi trường Ruby sử dụng UTF-8
+ENV['LANG'] = 'en_US.UTF-8'
+ENV['LC_ALL'] = 'en_US.UTF-8'
 
+gem "github-pages", group: :jekyll_plugins
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# If you have any plugins, put them here!
+# Plugins
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
@@ -16,3 +19,4 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-archives"
 end
+
